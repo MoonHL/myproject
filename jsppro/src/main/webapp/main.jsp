@@ -8,7 +8,7 @@
 </head>
 <body>
 
-main.jsp
+main.jsp(수정)
 
 </body>
 </html>
